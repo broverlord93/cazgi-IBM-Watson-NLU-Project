@@ -1,5 +1,7 @@
 # coding-project-template
 
+Part of a series of courses on Coursera taught by IBM Skills Network.
+
 This is a simple app utilizing the IBM Watson Natural Language Understanding API to analyze text for sentiment and emotion.
 Text can be supplied by typing or pasting a paragraph, or by supplying a link to a web page.
 
